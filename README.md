@@ -17,7 +17,7 @@ A collection of awesome Synapse libraries, resources and shiny things.
 - [microsoft/SynapseML](https://github.com/microsoft/SynapseML) - Distributed ML framework built on Apache Spark.
 - [microsoft/sql-server-samples](https://github.com/microsoft/sql-server-samples) - Azure Data SQL Samples, including Synapse.
 - [microsoft/Azure_Synapse_Toolbox](https://github.com/microsoft/Azure_Synapse_Toolbox) - Tools/queries for managing and monitoring Azure Synapse.
-- [microsoft/AzureSynapseScriptsAndAccelerators](https://github.com/microsoft/AzureSynapseScriptsAndAccelerators) - Synapse scripts and accelerators.
+- [microsoft/AzureSynapseScriptsAndAccelerators](https://github.com/microsoft/AzureSynapseScriptsAndAccelerators) - Assessment scripts and on-prem DW migration into Azure Synapse.
 - [microsoft/azure-synapse-spark-metrics](https://github.com/microsoft/azure-synapse-spark-metrics) - Easy metrics monitoring functions for Synapse.
 - [microsoft/BackupDwToBlob](https://github.com/microsoft/BackupDwToBlob) - Backup SQL Pool to Azure Blob Storage using ADF.
 - [microsoft/Azure-Analytics-and-AI-Engagement](https://github.com/microsoft/Azure-Analytics-and-AI-Engagement) - Microsoft Dream Demo in a Box
