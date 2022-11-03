@@ -20,6 +20,7 @@ A collection of awesome Synapse libraries, resources and shiny things.
 - [microsoft/AzureSynapseScriptsAndAccelerators](https://github.com/microsoft/AzureSynapseScriptsAndAccelerators) - Assessment scripts and on-prem DWs migration into Azure Synapse.
 - [microsoft/azure-synapse-spark-metrics](https://github.com/microsoft/azure-synapse-spark-metrics) - Easy metrics monitoring functions for Synapse.
 - [microsoft/BackupDwToBlob](https://github.com/microsoft/BackupDwToBlob) - Backup SQL Pool to Azure Blob Storage using ADF.
+- [microsoft/AzureSynapseEndToEndDemo](https://github.com/microsoft/AzureSynapseEndToEndDemo) - Azure Synapse end-to-end demo.
 - [microsoft/Azure-Analytics-and-AI-Engagement](https://github.com/microsoft/Azure-Analytics-and-AI-Engagement) - Microsoft Dream Demo in a Box
 - [AasTrailblazers/AzureSynapse](https://github.com/AasTrailblazers/AzureSynapse) - Spark and SQL pool examples.
 - [abhirockzz/cosmosdb-synapse-workshop](https://github.com/abhirockzz/cosmosdb-synapse-workshop) - Azure Synapse Link for Azure Cosmos DB example.
