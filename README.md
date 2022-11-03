@@ -64,4 +64,4 @@ A collection of awesome Synapse libraries, resources and shiny things.
 - [microsoft/Azure-Synapse-Customer-Insights-Customer360-Solution-Accelerator](https://github.com/microsoft/Azure-Synapse-Customer-Insights-Customer360-Solution-Accelerator) - Customer Insights Customer 360 Solution Accelerator.
 - [microsoft/Azure-Synapse-Solution-Accelerator--Part-Comparator](https://github.com/microsoft/Azure-Synapse-Solution-Accelerator--Part-Comparator) - Part Comparator Solution Accelerator.
 - [microsoft/Relationship-Mesh-Solution-Accelerator-with-MGDC-and-Azure-Synapse-Analytics](https://github.com/microsoft/Relationship-Mesh-Solution-Accelerator-with-MGDC-and-Azure-Synapse-Analytics) - Relationship Mesh Solution Accelerator.
-- [ROBROICH/AZURE_SYNAPSE_AND_SAP_SFLIGHT_DEMO](https://github.com/ROBROICH/AZURE_SYNAPSE_AND_SAP_SFLIGHT_DEMO) - Synapse + SQP SFLIGHT demo.
+- [ROBROICH/AZURE_SYNAPSE_AND_SAP_SFLIGHT_DEMO](https://github.com/ROBROICH/AZURE_SYNAPSE_AND_SAP_SFLIGHT_DEMO) - Synapse + SAP SFLIGHT demo.
