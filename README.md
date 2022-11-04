@@ -83,6 +83,7 @@ A collection of awesome Synapse libraries, resources and shiny things.
 - [Azure Synapse - Community](https://azure.github.io/Synapse/)
 - [Azure Synapse - Influencer Program](https://azure.github.io/Synapse/influencers/)
 - [Azure Synapse - Twitter](https://twitter.com/Azure_Synapse)
+- [Azure Synapse on Medium](https://medium.com/tag/azure-synapse-analytics)
 
 ### Learning
 
@@ -102,3 +103,4 @@ A collection of awesome Synapse libraries, resources and shiny things.
 
 - [Azure Synapse Analytics Cookbook](https://www.packtpub.com/product/azure-synapse-analytics-cookbook/9781803231501) by Gaurav Agarwal, Meenakshi Muralidharan
 - [Limitless Analytics with Azure Synapse](https://www.packtpub.com/product/limitless-analytics-with-azure-synapse/9781800205659) By Prashant Kumar Mishra
+- [Learning Azure Synapse Analytics](https://www.oreilly.com/library/view/learning-azure-synapse/9781098127688/) by Paul Andrew, Richard Swinbank
