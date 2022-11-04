@@ -90,6 +90,8 @@ A collection of awesome Synapse libraries, resources and shiny things.
 - [Azure Synapse - YouTube channel](https://www.youtube.com/channel/UCsZ4IlYjjVxqe5OZ14tyh5g)
 - [Guy in a Cube - YouTube channel](https://www.youtube.com/c/GuyinaCube)
 - [Pragmatic Works - YouTube channel](https://www.youtube.com/c/PragmaticWorks)
+- [Advancing Analytics (The Synapse Sessions) - YouTube channel](https://www.youtube.com/playlist?list=PLHN2ijxAWBaMl5Bl1KlLpGx-uend0WHP0)
+- [Datahai BI (Synapse Analytics) - YouTube channel](https://www.youtube.com/playlist?list=PL4dsvcj_pgQZLPHM9RIUmdYlbNDn5agc6)
 - [Azure Synapse - Learning paths and modules](https://learn.microsoft.com/en-us/training/browse/?expanded=azure&products=azure-synapse-analytics)
 - [Microsoft Azure Synapse for Developers - LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/data-warehouses-in-the-cloud)
 - [Microsoft Azure Synapse for Developers: Scaling Configuration - LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-scaling-configuration/configuring-azure-synapse-workspaces)
