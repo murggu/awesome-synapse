@@ -6,7 +6,7 @@ A collection of awesome Synapse libraries, resources and shiny things.
 
 ## Repositories
 
-### Tools & samples
+### Tools & Samples
 
 - [Azure-Samples/Synapse](https://github.com/Azure-Samples/Synapse) - Samples for Azure Synapse Analytics.
 - [Azure/DW-with-Synapse-Data-Factory-Power-BI](https://github.com/Azure/DW-with-Synapse-Data-Factory-Power-BI) - Create a data mart using ADF, Synapse and Power BI.
@@ -45,7 +45,7 @@ A collection of awesome Synapse libraries, resources and shiny things.
 - [solliancenet/azure-synapse-analytics-workshop-400](https://github.com/solliancenet/azure-synapse-analytics-workshop-400) - Azure Synapse Analtytics Workshop L400.
 - [solliancenet/azure-synapse-analytics-ga-content-packs](https://github.com/solliancenet/azure-synapse-analytics-ga-content-packs) - Readiness content packs for Synapse.
 
-### Deployment templates
+### Deployment Templates
 
 - [Azure/azure-synapse-analytics-end2end](https://github.com/Azure/azure-synapse-analytics-end2end) - Deployment Accelerator using Bicep.
 - [Azure/Synapse-workspace-deployment](https://github.com/Azure/Synapse-workspace-deployment) - GitHub action for Synapse.
@@ -58,7 +58,7 @@ A collection of awesome Synapse libraries, resources and shiny things.
 
 - [rawatsudhir1/AzureSynapseDWH](https://github.com/rawatsudhir1/AzureSynapseDWH) - Scripts from [this techcommunity blog post](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/performance-benchmark-azure-synapse-analytics-data-warehouse/ba-p/1381302)
 
-### Solution accelerators
+### Solution Accelerators
 
 - [microsoft/Azure-Synapse-Solution-Accelerator-Commodity-Price-Prediction](https://github.com/microsoft/Azure-Synapse-Solution-Accelerator-Commodity-Price-Prediction) - Commodity Price Prediction Solution Accelerator.
 - [microsoft/Azure-Synapse-Solution-Accelerator-Customer-Revenue-Growth-Factor](https://github.com/microsoft/Azure-Synapse-Solution-Accelerator-Financial-Analytics-Customer-Revenue-Growth-Factor) - Customer Revenue Growth Factor Solution Accelerator.
@@ -69,19 +69,34 @@ A collection of awesome Synapse libraries, resources and shiny things.
 - [microsoft/Relationship-Mesh-Solution-Accelerator-with-MGDC-and-Azure-Synapse-Analytics](https://github.com/microsoft/Relationship-Mesh-Solution-Accelerator-with-MGDC-and-Azure-Synapse-Analytics) - Relationship Mesh Solution Accelerator.
 - [ROBROICH/AZURE_SYNAPSE_AND_SAP_SFLIGHT_DEMO](https://github.com/ROBROICH/AZURE_SYNAPSE_AND_SAP_SFLIGHT_DEMO) - Synapse + SAP SFLIGHT demo.
 
-## Resources
+## Other Resources
+
+### Docs
+
+- [Azure Synapse - Official docs](https://learn.microsoft.com/en-us/azure/synapse-analytics/guidance/success-by-design-introduction)
+- [Azure Synapse - Blog](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/bg-p/AzureSynapseAnalyticsBlog)
+- [Azure Synapse - Monthly update](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/bg-p/AzureSynapseAnalyticsBlog/label-name/Monthly%20Update)
+- [Azure Synapse - Success by design](https://learn.microsoft.com/en-us/azure/synapse-analytics/guidance/success-by-design-introduction)
+
+### Community
 
 - [Azure Synapse - Community](https://azure.github.io/Synapse/)
 - [Azure Synapse - Influencer Program](https://azure.github.io/Synapse/influencers/)
-- [Azure Synapse - Monthly update](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/bg-p/AzureSynapseAnalyticsBlog/label-name/Monthly%20Update)
-- [Azure Synapse - Official docs](https://learn.microsoft.com/en-us/azure/synapse-analytics/guidance/success-by-design-introduction)
-- [Azure Synapse - Blog](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/bg-p/AzureSynapseAnalyticsBlog)
 - [Azure Synapse - Twitter](https://twitter.com/Azure_Synapse)
+
+### Learning
+
 - [Azure Synapse - YouTube channel](https://www.youtube.com/channel/UCsZ4IlYjjVxqe5OZ14tyh5g)
-- [Azure Synapse - Success by design](https://learn.microsoft.com/en-us/azure/synapse-analytics/guidance/success-by-design-introduction)
 - [Azure Synapse - Learning paths and modules](https://learn.microsoft.com/en-us/training/browse/?expanded=azure&products=azure-synapse-analytics)
 - [Microsoft Azure Synapse for Developers - LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/data-warehouses-in-the-cloud)
 - [Microsoft Azure Synapse for Developers: Scaling Configuration - LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-scaling-configuration/configuring-azure-synapse-workspaces)
+
+### Technical Q&A
+
 - [Azure Synapse on StackOverflow](https://stackoverflow.com/questions/tagged/azure-synapse+or+azure-synapse+or+azure-sql-data-warehouse)
 - [Azure Synapse on Microsoft Q&A](https://feedback.azure.com/d365community/forum/9b9ba8e4-0825-ec11-b6e6-000d3a4f07b8)
 
+### Books
+
+- [Azure Synapse Analytics Cookbook](https://www.packtpub.com/product/azure-synapse-analytics-cookbook/9781803231501) by Gaurav Agarwal, Meenakshi Muralidharan
+- [Limitless Analytics with Azure Synapse](https://www.packtpub.com/product/limitless-analytics-with-azure-synapse/9781800205659) By Prashant Kumar Mishra
