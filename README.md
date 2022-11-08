@@ -106,3 +106,10 @@ A collection of awesome Synapse libraries, resources and shiny things.
 - [Azure Synapse Analytics Cookbook](https://www.packtpub.com/product/azure-synapse-analytics-cookbook/9781803231501) by Gaurav Agarwal, Meenakshi Muralidharan
 - [Limitless Analytics with Azure Synapse](https://www.packtpub.com/product/limitless-analytics-with-azure-synapse/9781800205659) By Prashant Kumar Mishra
 - [Learning Azure Synapse Analytics](https://www.oreilly.com/library/view/learning-azure-synapse/9781098127688/) by Paul Andrew, Richard Swinbank
+
+### Research Papers
+
+- [POLARIS: the distributed SQL engine in Azure Synapse](https://www.microsoft.com/research/publication/polaris-the-distributed-sql-engine-in-azure-synapse/)
+- [Windows Azure Storage: Highly available cloud storage with strong consistency](https://azure.microsoft.com/blog/sosp-paper-windows-azure-storage-a-highly-available-cloud-storage-service-with-strong-consistency/)
+- [Split query processing in polybase](https://www.microsoft.com/research/publication/split-query-processing-in-polybase/)
+- [Query optimization in Microsoft SQL Server PDW](https://www.microsoft.com/en-us/research/publication/query-optimization-in-microsoft-sql-server-pdw/)
