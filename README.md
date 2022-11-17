@@ -9,6 +9,7 @@ A collection of awesome Synapse libraries, resources and shiny things.
 ### Tools & Samples
 
 - [Azure-Samples/Synapse](https://github.com/Azure-Samples/Synapse) - Samples for Azure Synapse Analytics.
+- [Azure-Samples/sample-mdw-serverless](https://github.com/Azure-Samples/sample-mdw-serverless) - End-to-end sample using Power BI, Synapse Serverless and Pipelines.
 - [Azure/DW-with-Synapse-Data-Factory-Power-BI](https://github.com/Azure/DW-with-Synapse-Data-Factory-Power-BI) - Create a data mart using ADF, Synapse and Power BI.
 - [Azure/Test-Drive-Azure-Synapse-with-a-1-click-POC](https://github.com/Azure/Test-Drive-Azure-Synapse-with-a-1-click-POC) - POC with pre-populated dataset, pipeline, notebook.
 - [Azure/Test-Drive-Synapse-Link-For-DataVerse](https://github.com/Azure/Test-Drive-Synapse-Link-For-DataVerse) - POC environment of Azure Synapse Analytics link for Dataverse with Spark notebooks.
