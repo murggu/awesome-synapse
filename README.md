@@ -115,3 +115,5 @@ A collection of awesome Synapse libraries, resources and shiny things.
 - [Windows Azure Storage: Highly available cloud storage with strong consistency](https://azure.microsoft.com/blog/sosp-paper-windows-azure-storage-a-highly-available-cloud-storage-service-with-strong-consistency/)
 - [Split query processing in polybase](https://www.microsoft.com/research/publication/split-query-processing-in-polybase/)
 - [Query optimization in Microsoft SQL Server PDW](https://www.microsoft.com/en-us/research/publication/query-optimization-in-microsoft-sql-server-pdw/)
+
+Azure Synapse 💙 Community
