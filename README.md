@@ -79,6 +79,7 @@ A collection of awesome Synapse libraries, resources and shiny things.
 - [Azure Synapse - Blog](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/bg-p/AzureSynapseAnalyticsBlog)
 - [Azure Synapse - Monthly update](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/bg-p/AzureSynapseAnalyticsBlog/label-name/Monthly%20Update)
 - [Azure Synapse - Success by design](https://learn.microsoft.com/en-us/azure/synapse-analytics/guidance/success-by-design-introduction)
+- [Azure Synapse - Reference Architectures](https://learn.microsoft.com/en-us/azure/architecture/browse/?terms=Synapse)
 
 ### Community
 
@@ -89,14 +90,20 @@ A collection of awesome Synapse libraries, resources and shiny things.
 
 ### Learning
 
-- [Azure Synapse - YouTube channel](https://www.youtube.com/channel/UCsZ4IlYjjVxqe5OZ14tyh5g)
-- [Guy in a Cube - YouTube channel](https://www.youtube.com/c/GuyinaCube)
-- [Pragmatic Works - YouTube channel](https://www.youtube.com/c/PragmaticWorks)
-- [Advancing Analytics (The Synapse Sessions) - YouTube channel](https://www.youtube.com/playlist?list=PLHN2ijxAWBaMl5Bl1KlLpGx-uend0WHP0)
-- [Datahai BI (Synapse Analytics) - YouTube channel](https://www.youtube.com/playlist?list=PL4dsvcj_pgQZLPHM9RIUmdYlbNDn5agc6)
 - [Azure Synapse - Learning paths and modules](https://learn.microsoft.com/en-us/training/browse/?expanded=azure&products=azure-synapse-analytics)
-- [Microsoft Azure Synapse for Developers - LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/data-warehouses-in-the-cloud)
-- [Microsoft Azure Synapse for Developers: Scaling Configuration - LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-scaling-configuration/configuring-azure-synapse-workspaces)
+- [Synapse Practitioner](https://azure.microsoft.com/en-us/resources/developers/synapse-analytics-for-data-engineers/)
+- [Microsoft Virtual Training Days](https://mvtd.events.microsoft.com/?azureevent=Microsoft%20Azure%20Virtual%20Training%20Day:%20Deliver%20Integrated%20Analytics%20with%20Azure%20Synapse)
+- [30-Day Cloud Skills Challenge](https://learn.microsoft.com/en-us/training/challenges?id=3d6cb3b9-f4b7-4d7b-ab23-57faa1762705&wt.mc_id=cloudskillschallenge_3d6cb3b9-f4b7-4d7b-ab23-57faa1762705)
+- [Get Started with Azure Synapse Analytics in 60 Minutes](https://info.microsoft.com/ww-landing-get-started-with-azure-synapse-analytics-in-60-minutes.html)
+- YouTube →
+  - [Azure Synapse - YouTube channel](https://www.youtube.com/channel/UCsZ4IlYjjVxqe5OZ14tyh5g)
+  - [Guy in a Cube - YouTube channel](https://www.youtube.com/c/GuyinaCube)
+  - [Pragmatic Works - YouTube channel](https://www.youtube.com/c/PragmaticWorks)
+  - [Advancing Analytics (The Synapse Sessions) - YouTube channel](https://www.youtube.com/playlist?list=PLHN2ijxAWBaMl5Bl1KlLpGx-uend0WHP0)
+  - [Datahai BI (Synapse Analytics) - YouTube channel](https://www.youtube.com/playlist?list=PL4dsvcj_pgQZLPHM9RIUmdYlbNDn5agc6)
+- LinkedIn  →
+  - [Microsoft Azure Synapse for Developers - LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/data-warehouses-in-the-cloud)
+  - [Microsoft Azure Synapse for Developers: Scaling Configuration - LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-scaling-configuration/configuring-azure-synapse-workspaces)
 
 ### Technical Q&A
 
