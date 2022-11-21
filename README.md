@@ -105,7 +105,7 @@ A collection of awesome Synapse libraries, resources and shiny things.
   - [Microsoft Azure Synapse for Developers - LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/data-warehouses-in-the-cloud)
   - [Microsoft Azure Synapse for Developers: Scaling Configuration - LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-scaling-configuration/configuring-azure-synapse-workspaces)
 
-### Technical Q&A
+### Technical Discussions and Q&A
 
 - [Azure Synapse on StackOverflow](https://stackoverflow.com/questions/tagged/azure-synapse+or+azure-synapse+or+azure-sql-data-warehouse)
 - [Azure Synapse on Microsoft Q&A](https://feedback.azure.com/d365community/forum/9b9ba8e4-0825-ec11-b6e6-000d3a4f07b8)
