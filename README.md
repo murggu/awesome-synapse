@@ -26,6 +26,7 @@ A collection of awesome Synapse libraries, resources and shiny things.
 - [microsoft/BackupDwToBlob](https://github.com/microsoft/BackupDwToBlob) - Backup SQL Pool to Azure Blob Storage using ADF.
 - [microsoft/AzureSynapseEndToEndDemo](https://github.com/microsoft/AzureSynapseEndToEndDemo) - Azure Synapse end-to-end demo.
 - [microsoft/Azure-Analytics-and-AI-Engagement](https://github.com/microsoft/Azure-Analytics-and-AI-Engagement) - Microsoft Dream Demo in a Box
+- [microsoft/SynapseGenie](https://github.com/microsoft/SynapseGenie) - Run multiple notebooks in the same Spark pool.
 - [AasTrailblazers/AzureSynapse](https://github.com/AasTrailblazers/AzureSynapse) - Spark and SQL pool examples.
 - [abhirockzz/cosmosdb-synapse-workshop](https://github.com/abhirockzz/cosmosdb-synapse-workshop) - Azure Synapse Link for Azure Cosmos DB example.
 - [AdamPaternostro/Azure-Synapse-SQL-Serverless-Generate-From-Hive](https://github.com/AdamPaternostro/Azure-Synapse-SQL-Serverless-Generate-From-Hive) - Generate SQL Serverless create view statements from Hive.
